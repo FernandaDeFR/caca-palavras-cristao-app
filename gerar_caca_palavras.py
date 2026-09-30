@@ -10,7 +10,8 @@ GRID_SIZE = 10
 DIRECTIONS = {
     "nivel_1": [(0, 1), (1, 0)],  # Horizontal (direita), Vertical (baixo)
     "nivel_2": [(0, 1), (1, 0), (1, 1), (-1, 1)],  # Inclui Diagonais
-    "nivel_3": [(0, 1), (1, 0), (1, 1), (-1, 1), (0, -1), (-1, 0)]  # Inclui direções invertidas
+    "nivel_3": [(0, 1), (1, 0), (1, 1), (-1, 1), (0, -1), (-1, 0), (-1, -1), (1, -1)],
+    "nivel_4": [(0, 1), (1, 0), (1, 1), (-1, 1), (0, -1), (-1, 0), (-1, -1), (1, -1)]
 }
 
 DIR_NAMES = {
@@ -19,14 +20,15 @@ DIR_NAMES = {
     (1, 1): "diagonal_descendente",
     (-1, 1): "diagonal_ascendente",
     (0, -1): "horizontal_invertida",
-    (-1, 0): "vertical_invertida"
+    (-1, 0): "vertical_invertida",
+    (-1, -1): "diagonal_descendente_invertida",
+    (1, -1): "diagonal_ascendente_invertida"
 }
 
 def criar_grid_vazio(size=GRID_SIZE):
     return [["" for _ in range(size)] for _ in range(size)]
 
 def pode_posicionar(grid, palavra, r, c, dr, dc, size=GRID_SIZE):
-    """Verifica se a palavra cabe no grid mantendo caracteres exatos."""
     len_p = len(palavra)
     end_r = r + (len_p - 1) * dr
     end_c = c + (len_p - 1) * dc
@@ -44,12 +46,10 @@ def pode_posicionar(grid, palavra, r, c, dr, dc, size=GRID_SIZE):
     return True
 
 def posicionar_palavra(grid, palavra, r, c, dr, dc):
-    """Insere a palavra no grid."""
     for i, char in enumerate(palavra):
         grid[r + i * dr][c + i * dc] = char
 
 def preencher_lixo(grid, size=GRID_SIZE):
-    """Preenche as células vazias com letras maiúsculas aleatórias."""
     letras = string.ascii_uppercase
     for r in range(size):
         for c in range(size):
@@ -57,7 +57,6 @@ def preencher_lixo(grid, size=GRID_SIZE):
                 grid[r][c] = random.choice(letras)
 
 def orientacoes_sao_validas(solucoes, total_palavras, dificuldade):
-    """Garante variedade de orientações sem travar a montagem do grid."""
     contagem = {}
     for s in solucoes:
         ori = s["orientacao"]
@@ -66,6 +65,17 @@ def orientacoes_sao_validas(solucoes, total_palavras, dificuldade):
     if dificuldade == "nivel_1":
         return abs(contagem.get("horizontal", 0) - contagem.get("vertical", 0)) <= 1
 
+    if dificuldade == "nivel_2" and total_palavras >= 3:
+        if not any(s["orientacao"].startswith("diagonal") for s in solucoes):
+            return False
+    if dificuldade in ("nivel_3", "nivel_4") and total_palavras >= 3:
+        if not any(s["orientacao"].startswith("diagonal") and
+                   s["orientacao"].endswith("invertida") for s in solucoes):
+            return False
+        if not any(s["orientacao"] in ("horizontal_invertida", "vertical_invertida")
+                   for s in solucoes):
+            return False
+
     # Nos outros níveis, exige ao menos duas orientações.
     if total_palavras >= 4 and len(contagem) < 2:
         return False
@@ -73,9 +83,10 @@ def orientacoes_sao_validas(solucoes, total_palavras, dificuldade):
     return True
 
 def tentar_gerar_etapa(etapa_input, max_tentativas=1000):
-    """Tenta posicionar todas as palavras respeitando os limites de distribuição de orientação."""
     dificuldade = etapa_input.get("dificuldade", "nivel_1")
-    direcoes_permitidas = DIRECTIONS.get(dificuldade, DIRECTIONS["nivel_1"])
+    if dificuldade not in DIRECTIONS:
+        raise ValueError(f"Dificuldade desconhecida: {dificuldade}")
+    direcoes_permitidas = DIRECTIONS[dificuldade]
     palavras_original = etapa_input.get("palavras", [])
 
     for p in palavras_original:
@@ -150,7 +161,6 @@ def tentar_gerar_etapa(etapa_input, max_tentativas=1000):
     raise Exception(f"Não foi possível gerar o grid para a etapa {etapa_input.get('etapa')}. Verifique se o tamanho das palavras é compatível.")
 
 def processar_elemento(elemento):
-    """Navega recursivamente pela estrutura JSON até encontrar e processar as 'etapas'."""
     if isinstance(elemento, dict):
         novo_dict = {}
         for chave, valor in elemento.items():
@@ -165,7 +175,6 @@ def processar_elemento(elemento):
         return elemento
 
 def formatar_json_compacto(json_str):
-    """Compacta apenas listas de números simples [x, y] e objetos de solução mantendo o resto indentado."""
     json_str = re.sub(r'\[\s*(\d+),\s*(\d+)\s*\]', r'[\1, \2]', json_str)
     
     def compactar_solucao_obj(match):
@@ -178,7 +187,6 @@ def formatar_json_compacto(json_str):
     return json_str
 
 def processar_insumo(caminho_entrada="insumo.json", caminho_saida="caca_palavras.json"):
-    """Lê qualquer JSON de entrada e gera o arquivo de caça-palavras equilibrado."""
     with open(caminho_entrada, "r", encoding="utf-8") as f:
         dados_insumo = json.load(f)
 

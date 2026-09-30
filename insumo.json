@@ -15,35 +15,35 @@
         {
           "etapa": 2,
           "tema": "O jardim do Éden",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 9,
           "palavras": ["ADÃO", "EVA", "JARDIM", "SERPENTE", "FRUTO", "ÁRVORE", "PARAÍSO", "BEM", "MAL"]
         },
         {
           "etapa": 3,
           "tema": "A arca de Noé",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 9,
           "palavras": ["NOÉ", "ARCA", "DILÚVIO", "POMBA", "ALIANÇA", "CORVO", "GADO", "RÉPTEIS", "AVES"]
         },
         {
           "etapa": 4,
           "tema": "A torre de Babel",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 7,
           "palavras": ["TORRE", "BABEL", "LÍNGUAS", "TIJOLOS", "CÉU", "DISPERSÃO", "POVOS"]
         },
         {
           "etapa": 5,
           "tema": "Nações, cidades e lugares urbanos pós-dilúvio",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 14,
           "palavras": ["EREQUE", "ACADE", "CALNÉ", "NÍNIVE", "CALÁ", "RESEN", "SIDOM", "GERAR", "GAZA", "SODOMA", "GOMORRA", "ADMÁ", "ZEBOIM", "LASA"]
         },
         {
           "etapa": 6,
           "tema": "José: da túnica ao Egito",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 11,
           "palavras": ["JOSÉ","JACÓ","TÚNICA","SONHOS","POÇO","IRMÃOS","POTIFAR","PRISÃO","EGITO","FARAÓ", "REVELAÇÃO"]
         }
@@ -64,35 +64,35 @@
         {
           "etapa": 2,
           "tema": "As dez pragas do Egito",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 10,
           "palavras": ["SANGUE", "RÃS", "PIOLHOS", "MOSCAS", "PESTE", "GAFANHOTO", "TREVAS", "MORTE", "ÚLCERAS", "GRANIZO"]
         },
         {
           "etapa": 3,
           "tema": "A saída do Egito e a travessia do mar",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 9,
           "palavras": ["PÁSCOA", "SAÍDA", "NUVEM", "MAR", "VERMELHO", "MILAGRE", "FARAÓ", "LOUVOR", "CARROS"]
         },
         {
           "etapa": 4,
           "tema": "A jornada no deserto e o prover divino",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 9,
           "palavras": ["DESERTO", "MANÁ", "CODORNIZ", "ROCHA", "ÁGUA", "MARAH", "CUIDADO", "PROVISÃO", "AMARGA"] 
         },
         {
           "etapa": 5,
           "tema": "Os dez mandamentos no monte Sinai",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 11,
           "palavras": ["AMAR", "ÍDOLO", "SENHOR", "SÁBADO", "FALSO", "COBIÇAR", "PAI", "MÃE", "MATAR", "ADULTERAR", "FURTAR"]
         },
         {
           "etapa": 6,
           "tema": "O bezerro de ouro e a glória no tabernáculo",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 9,
           "palavras": ["BEZERRO", "OURO", "ARCA", "ALTAR", "SANTUÁRIO", "GLÓRIA", "PRESENÇA", "TENDA", "ADORAÇÃO"]
         }
@@ -113,21 +113,21 @@
         {
           "etapa": 2,
           "tema": "O dia da expiação",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 9,
           "palavras": ["EXPIAÇÃO","INCENSO","BODE","PERDÃO","PAZ","GRAÇA","JEJUM","PURIFICAR","LUGAR"]
         },
         {
           "etapa": 3,
           "tema": "O chamado à santidade diária",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 9,
           "palavras": ["SANTIDADE","AMOR","PRÓXIMO","JUSTIÇA","HONRA","VERDADE","RESPEITO","LUZ","BONDADE"]
         },
         {
           "etapa": 4,
           "tema": "As festas sagradas e o Jubileu",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 10,
           "palavras": ["PÁSCOA","TROMBETAS","SÁBADO","JUBILEU","LIBERDADE","COLHEITA","RESTAURO","FESTA","ALEGRIA","OFERTAS"]
         }
@@ -148,28 +148,28 @@
         {
           "etapa": 2,
           "tema": "A nuvem de glória e as trombetas",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 10,
           "palavras": ["NUVEM","FOGO","PRATA","TROMBETA","SINAL","GUIA","PRESENÇA","JORNADA","GLÓRIA","PARTIDA"]
         },
         {
           "etapa": 3,
           "tema": "Os espias e a terra prometida",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["ESPIAS","CANAÃ","FRUTO","UVA","JOSUÉ","CALEBE","FÉ","PROMESSA","TERRA","RELATO"]
         },
         {
           "etapa": 4,
           "tema": "A serpente de bronze no deserto",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["SERPENTE","BRONZE","HASTE","OLHAR","CURA","VIDA","DESERTO","POVO","ROCHA","SOCORRO"]
         },
         {
           "etapa": 5,
           "tema": "A jumenta de Balaão e a bênção",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 10,
           "palavras": ["BALAÃO","BALAQUE","JUMENTA","BÊNÇÃO","VISÃO","ANJO","CAMINHO","PROFETA","FALA","REI"]
         }
@@ -190,21 +190,21 @@
         {
           "etapa": 2,
           "tema": "Lembrete para não esquecer de Deus",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 10,
           "palavras": ["GRATIDÃO","CANAÃ","FARTURA","ALERTA","HUMILDADE","COLHEITA","PROVA","TERRA","MANÁ","BEM"]
         },
         {
           "etapa": 3,
           "tema": "Aliança com Deus",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 9,
           "palavras": ["BÊNÇÃO","ESCOLHA","VIDA","OBEDIÊNCIA","CAMINHO","FUTURO","DECISÃO","ALIANÇA","PROMESSA"]
         },
         {
           "etapa": 4,
           "tema": "A sucessão de Josué e o monte Nebo",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 10,
           "palavras": ["MOISÉS","JOSUÉ","CORAGEM","LÍDER","NEBO","VISÃO","CÂNTICO","LIDERANÇA","TRANSIÇÃO","ADEUS"]
         }
@@ -225,21 +225,21 @@
         {
           "etapa": 2,
           "tema": "A conquista de Jericó",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 9,
           "palavras": ["JERICÓ","MURALHA","BUZINA","CLAMOR","VITÓRIA","RAABE","CORDÃO","ESPIÃO","CIDADE"]
         },
         {
           "etapa": 3,
           "tema": "A divisão da terra prometida",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["HERANÇA","TRIBOS","SORTEIO","REFÚGIO","TERRA","PARTILHA","CALEBE","DESCANSO","PROMESSA","LIMITE"]
         },
         {
           "etapa": 4,
           "tema": "O discurso final de Josué em Siquém",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 10,
           "palavras": ["SIQUÉM","SERVIR","DECRETO","FIDELIDADE","ALIANÇA","JOSUÉ","CASA","LÍDER","PACTO","MEMORIAL"]
         }
@@ -260,21 +260,21 @@
         {
           "etapa": 2,
           "tema": "A liderança de Débora e Baraque",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 9,
           "palavras": ["DÉBORA","PROFETISA","BARAQUE","CÂNTICO","TABOR","VITÓRIA","PALMEIRA","CORAGEM","LUTA"]
         },
         {
           "etapa": 3,
           "tema": "Gideão e os trezentos",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["GIDEÃO","VALENTE","ÁGUA","TOCHA","CÂNTARO","BUZINA","PROVA","TREZENTOS","ALERTA","TRIGO"]
         },
         {
           "etapa": 4,
           "tema": "A história de Sansão",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 12,
           "palavras": ["SANSÃO","FORÇA","SEGREDO","NAZIREU","FILISTEU","MEL","LEÃO","ENIGMA","COLUNAS","QUEIXADA","CABELO","DALILA"]
         }
@@ -288,14 +288,14 @@
         {
           "etapa": 1,
           "tema": "A lealdade de Rute a Noemi",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 9,
           "palavras": ["RUTE","NOEMI","MOABE","BELÉM","CEVADA","CAMPO","FOME","DEUS","ESPIGAS"]
         },
         {
           "etapa": 2,
           "tema": "O resgate e a linhagem de Davi",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 10,
           "palavras": ["RESGATE","PARENTE","SANDÁLIA","ANCIÃOS","CASAMENTO","OBEDE","JESSÉ","DAVI","BOAZ","PORTA"]
         }
@@ -316,28 +316,28 @@
         {
           "etapa": 2,
           "tema": "A arca da aliança e os Filisteus",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 10,
           "palavras": ["ARCA", "FILISTEUS", "BATALHA", "DAGOM", "PRAGA", "EBENÉZER", "VITÓRIA", "RESGATE", "OFERTA", "DEUS"]
         },
         {
           "etapa": 3,
           "tema": "Saul: o primeiro rei de Israel",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["SAUL", "REI", "UNÇÃO", "MIGMAS", "COROA", "TRONO", "POVO", "PEDIDO", "JÔNATAS", "GUERRA"]
         },
         {
           "etapa": 4,
           "tema": "Davi, unção e a vitória sobre Golias",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["DAVI", "GOLIAS", "BELÉM", "HARPA", "GIBEÁ", "UNGIDO", "GIGANTE", "FRONDA", "PEDRA", "VALE"]
         },
         {
           "etapa": 5,
           "tema": "A fuga de Davi e a perseguição de Saul",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 10,
           "palavras": ["CAVERNA", "ENGEDI", "ALIANÇA", "LANCE", "FUGA", "MICAL", "REFÚGIO", "AMIZADE", "DESERTO", "PERDÃO"]
         }
@@ -358,21 +358,21 @@
         {
           "etapa": 2,
           "tema": "A bondade a Mefibosete",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 10,
           "palavras": ["BONDADE", "LODEBAR", "JÔNATAS", "MESA", "HERANÇA", "TERRAS", "PROMESSA", "SERVO", "ZIBAS", "REI"]
         },
         {
           "etapa": 3,
           "tema": "O pecado, natã e o arrependimento",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["BATESEBA", "URIAS", "CARTA", "GUERRA", "PECADO", "PARÁBOLA", "PERDÃO", "SALOMÃO", "LUTO", "TEMPLO"]
         },
         {
           "etapa": 4,
           "tema": "A rebelião de Absalão e o retorno",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 9,
           "palavras": ["ABSALÃO", "GOLPE", "FUGA", "OLIVAS", "ÁRVORE", "BATALHA", "CHORO", "RETORNO", "VITÓRIA"]
         }
@@ -393,21 +393,21 @@
         {
           "etapa": 2,
           "tema": "A construção do templo de Jerusalém",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 10,
           "palavras": ["TEMPLO", "CEDRO", "LÍBANO", "OURO", "ARCA", "ORAÇÃO", "GLÓRIA", "SABÁ", "RAINHA", "ALTAR"]
         },
         {
           "etapa": 3,
           "tema": "Elias e o confronto no monte Carmelo",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 9,
           "palavras": ["ELIAS", "ACABE", "JEZABEL", "SECA", "CARMELO", "BAAL", "FOGO", "CHUVA", "PROFETAS"]
         },
         {
           "etapa": 4,
           "tema": "A vinha de nabote e o fim de Acabe",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 9,
           "palavras": ["VINHA", "NABOTE", "CAVERNA", "VOZ", "MICAEL", "BATALHA", "DISFARCE", "FLECHA", "JUÍZO"]
         }
@@ -428,28 +428,28 @@
         {
           "etapa": 2,
           "tema": "A cura de Naamã e outros milagres",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 10,
           "palavras": ["NAAMÃ", "LEPRA", "LAVAGEM", "RIO", "SÍRIA", "GEAZI", "MACHADO", "EXÉRCITO", "CEGUEIRA", "PROFETA"]
         },
         {
           "etapa": 3,
           "tema": "A queda e o exílio do reino do norte",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 9,
           "palavras": ["SAMARIA", "ASSÍRIA", "INVASÃO", "QUEDA", "IDOLATRIA", "PEKAH", "OSÉIAS", "JEOVÁ", "JUÍZO"]
         },
         {
           "etapa": 4,
           "tema": "O rei Ezequias e o livro da lei com Josias",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 8,
           "palavras": ["EZEQUIAS", "ISAÍAS", "ORAÇÃO", "ANJO", "JOSIAS", "LIVRO", "REFORMA", "PÁSCOA"]
         },
         {
           "etapa": 5,
           "tema": "A destruição de Jerusalém e o exílio babilônico",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 8,
           "palavras": ["BABILÔNIA", "CERCO", "MUROS", "FOGO", "EXÍLIO", "CATIVEIRO", "ZEDEQUIAS", "TEMPLO"]
         }
@@ -470,21 +470,21 @@
         {
           "etapa": 2,
           "tema": "A arca da aliança e o louvor",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 10,
           "palavras": ["ARCA", "TENTA", "LOUVOR", "SALMO", "MÚSICA", "ALEGRIA", "ALIANÇA", "PRESENÇA", "TENDA", "PACTO"]
         },
         {
           "etapa": 3,
           "tema": "Conquistas militares e organização do culto",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["INIMIGOS", "OURO", "PRATA", "LEVITAS", "SACERDOTES", "MÚSICOS", "TURNO", "PORTEIROS", "OFERTA", "ORDEM"]
         },
         {
           "etapa": 4,
           "tema": "Preparativos para o templo e transição a Salomão",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 9,
           "palavras": ["PLANTA", "TEMPLO", "SALOMÃO", "TESOURO", "OFERTAS", "CORAGEM", "GRATIDÃO", "TRANSIÇÃO", "SUCESSÃO"]
         }
@@ -505,21 +505,21 @@
         {
           "etapa": 2,
           "tema": "O templo restaurado por Joás e Ezequias",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 10,
           "palavras": ["JOÁS", "RESTAURA", "OFERTAS", "EZEQUIAS", "PURIFICA", "PÁSCOA", "FESTA", "ALEGRIA", "CORAÇÃO", "CULTIVO"]
         },
         {
           "etapa": 3,
           "tema": "A reforma de Josias e o livro reencontrado",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 8,
           "palavras": ["JOSIAS", "LIVRO", "LEI", "REFORMA", "ARREPENDE", "IDOLATRIA", "TORA", "PAZ"]
         },
         {
           "etapa": 4,
           "tema": "A destruição de Jerusalém e o decreto de Ciro",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 9,
           "palavras": ["BABILÔNIA", "CATIVEIRO", "FOGO", "EXÍLIO", "CIRO", "PÉRSIA", "DECRETO", "RETORNO", "ESPERANÇA"]
         }
@@ -540,21 +540,21 @@
         {
           "etapa": 2,
           "tema": "Oposição e a conclusão do segundo templo",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 10,
           "palavras": ["INIMIGOS", "CARTA", "PARADA", "AGEU", "ZACARIAS", "DARIO", "CORAGEM", "CONCLUSÃO", "FESTA", "PÁSCOA"]
         },
         {
           "etapa": 3,
           "tema": "A viagem e o escriba Esdras em Jerusalém",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["ESDRAS", "ESCRIBA", "TORA", "ARTAXERXES", "VIAGEM", "PROTEÇÃO", "JEJUM", "ENSINO", "CORAÇÃO", "CARAVANA"]
         },
         {
           "etapa": 4,
           "tema": "Confissão, arrependimento e purificação",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 10,
           "palavras": ["CONFISSÃO", "ORAÇÃO", "PRANTO", "PECADO", "PURIFICA", "ALIANÇA", "REFORMA", "VERGONHA", "POVO", "PERDÃO"]
         }
@@ -575,28 +575,28 @@
         {
           "etapa": 2,
           "tema": "A inspeção noturna e a reconstrução dos muros",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 10,
           "palavras": ["MUROS", "PORTAS", "FOGO", "INSPEÇÃO", "TRABALHO", "FAMÍLIAS", "RECONSTRÓI", "UNIÃO", "CIDADE", "PEDRA"]
         },
         {
           "etapa": 3,
           "tema": "Oposição inimiga e a conclusão em 52 dias",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 9,
           "palavras": ["SAMBALATE", "TOBIAS", "ZOMBARIA", "AMEAÇA", "VIGILÂNCIA", "LANCE", "ARMA", "CONCLUSÃO", "VITÓRIA"]
         },
         {
           "etapa": 4,
           "tema": "A leitura da Lei e a alegria do Senhor",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 9,
           "palavras": ["ESDRAS", "LEITURA", "TORA", "LÁGRIMAS", "FESTA", "ALEGRIA", "FORÇA", "PACTO", "RENOVAÇÃO"]
         },
         {
           "etapa": 5,
           "tema": "Repovoamento, dedicação e purificação",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 10,
           "palavras": ["REPOVOAR", "SORTEIO", "DEDICAÇÃO", "CORAIS", "LOUVOR", "TRIBO", "SÁBADO", "PURIFICA", "FIDELIDADE", "REFORMA"]
         }
@@ -617,28 +617,28 @@
         {
           "etapa": 2,
           "tema": "A ameaça de Hamã e o decreto de extermínio",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 10,
           "palavras": ["HAMÃ", "ORGULHO", "SORTES", "PUR", "DECRETO", "PERIGO", "CINZA", "JEJUM", "ORAÇÃO", "AMEAÇA"]
         },
         {
           "etapa": 3,
           "tema": "Para um tempo como este e o cetro de ouro",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 8,
           "palavras": ["CORAGEM", "CETRO", "OURO", "INSÔNIA", "CRÔNICAS", "HONRA", "CAVALO", "VESTE"]
         },
         {
           "etapa": 4,
           "tema": "A denúncia de Ester e a queda de Hamã",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 9,
           "palavras": ["DENÚNCIA", "POVO", "REVELAÇÃO", "FÚRIA", "FORCA", "JUSTIÇA", "QUEDA", "ANEL", "DEFESA"]
         },
         {
           "etapa": 5,
           "tema": "A vitória dos judeus e a festa de Purim",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 9,
           "palavras": ["VITÓRIA", "TRIUNFO", "PURIM", "FESTA", "ALEGRIA", "PRESENTES", "POBRES", "LIVRAMENTO", "MEMÓRIA"]
         }
@@ -659,28 +659,28 @@
         {
           "etapa": 2,
           "tema": "Os três amigos e o Debate sobre o sofrimento",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 9,
           "palavras": ["ELIFAZ", "BILDADE", "ZOFAR", "DEBATE", "SILÊNCIO", "ACUSAÇÃO", "DOR", "DEFESA", "INOCÊNCIA"]
         },
         {
           "etapa": 3,
           "tema": "A confiança no redentor e a esperança",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["REDENTOR", "VIVE", "ESPERANÇA", "CLAMOR", "FÉ", "CONFIA", "LAMENTA", "RESCATE", "ALIANÇA", "LUZ"]
         },
         {
           "etapa": 4,
           "tema": "Eliú e a resposta de Deus na tempestade",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["ELIÚ", "TEMPESTADE", "REDEMOINHO", "SOBERANIA", "CRIAÇÃO", "UNIVERSO", "LEVIATÃ", "BEHEMOTH", "PODER", "SABEDORIA"]
         },
         {
           "etapa": 5,
           "tema": "Visão de Deus, oração e restauração em dobro",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 9,
           "palavras": ["VISÃO", "HUMILDADE", "ORAÇÃO", "PERDÃO", "AMIGOS", "RESTAURA", "DOBRO", "SAÚDE", "BÊNÇÃO"]
         }
@@ -701,35 +701,35 @@
         {
           "etapa": 2,
           "salmo": "Salmo 23 - O Senhor, o nosso pastor",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 10,
           "palavras": ["PASTOR", "PASTO", "ÁGUA", "VALE", "SOMBRA", "CAJADO", "MESA", "CÁLICE", "BONDADE", "CASA"]
         },
         {
           "etapa": 3,
           "salmo": "Salmo 46 - O Senhor é o nosso refúgio e fortaleza",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 9,
           "palavras": ["REFÚGIO", "FORÇA", "TERRA", "MONTE", "ABISMO", "CIDADE", "SANTO", "SOCORRO", "NAÇÃO"]
         },
         {
           "etapa": 4,
           "salmo": "Salmo 91 - A sombra do altíssimo",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["ASAS", "ESCUDO", "PRAGA", "ANJO", "PEDRA", "LEÃO", "RESPOSTA", "HONRA", "SALVAÇÃO", "NOITE"]
         },
         {
           "etapa": 5,
           "salmo": "Salmo 121 - O Senhor, o nosso protetor",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["OLHOS", "CÉU", "PÉ", "GUARDA", "SOL", "LUA", "MAL", "ALMA", "ENTRADA", "SAÍDA"]
         },
         {
           "etapa": 6,
           "salmo": "Salmos 144 - Louvor pela proteção de Deus",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 9,
           "palavras": ["ACONTECE", "DEUS", "POVO", "FILHOS", "MOCIDADE", "INIQUIDADE", "ESPADA", "CÂNTICO", "VAIDADE"]
         }
@@ -750,28 +750,28 @@
         {
           "etapa": 2,
           "proverbio": "Provérbios 4 - O conselho de um pai",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 9,
           "palavras": ["GUARDA", "FONTE", "BOCA", "LÁBIO", "OLHAR", "PRUMO", "LIVRAMENTO", "SAÚDE", "SENSATO"]
         },
         {
           "etapa": 3,
           "proverbio": "Provérbios 15",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 9,
           "palavras": ["RESPOSTA", "BRANDA", "FUROR", "PALAVRA", "DURA", "IRA", "LÍNGUA", "CALMA", "PACIÊNCIA"]
         },
         {
           "etapa": 4,
           "proverbio": "Provérbios 16",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 9,
           "palavras": ["SOBERBA", "RUÍNA", "ALTIVEZ", "ESPÍRITO", "QUEDA", "ORGULHO", "HUMILDADE", "HONRA", "ALMA"]
         },
         {
           "etapa": 5,
           "proverbio": "Provérbios 22",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 10,
           "palavras": ["INSTRUI", "CRIANÇA", "ENSINO", "VELHICE", "DESVIO", "PADRÃO", "POBRE", "FUTURO", "EXEMPLO", "VIDA"]
         }
@@ -792,28 +792,28 @@
         {
           "etapa": 2,
           "tema": "Há um tempo para tudo debaixo do céu",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 10,
           "palavras": ["TEMPO", "PROPÓSITO", "PLANTAR", "COLHER", "CHORAR", "RIR", "ETERNIDADE", "CORAÇÃO", "UNIÃO", "CORDÃO"]
         },
         {
           "etapa": 3,
           "tema": "Contentamento e alegria nas coisas simples",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 9,
           "palavras": ["CONTENTA", "DÁDIVA", "DESFRUTAR", "ALIMENTOS", "FAMÍLIA", "TEMOR", "PRUDÊNCIA", "GRATIDÃO", "DIFERENÇA"]
         },
         {
           "etapa": 4,
           "tema": "Aproveite a vida e lembre-se do Criador",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["JUVENTUDE", "ALEGRIA", "CRIADOR", "ESCOLHAS", "ENTUSIASMO", "DEDICAÇÃO", "FUTURO", "CAMINHO", "LUZ", "LEMBRANÇA"]
         },
         {
           "etapa": 5,
           "tema": "A conclusão: teme a Deus e guarda os mandamentos",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 8,
           "palavras": ["FIM", "CONCLUSÃO", "OBEDIÊNCIA", "VERDADE", "JUSTIÇA", "JUÍZO", "VIDA", "ETERNO"]
         }
@@ -834,21 +834,21 @@
         {
           "etapa": 2,
           "tema": "O cortejo nupcial e a celebração do casamento",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 10,
           "palavras": ["CORTEJO", "CASAMENTO", "NOIVO", "ESPLENDOR", "PERFUME", "COROA", "ALIANÇA", "PERFEITA", "FESTA", "CÂNTICO"]
         },
         {
           "etapa": 3,
           "tema": "A busca, o reencontro e o pertencimento mútuo",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 9,
           "palavras": ["PROCURA", "REENCONTRO", "SULAMITA", "PERTENÇO", "DESEJO", "UNIDADE", "FIDELIDADE", "ABRAÇO", "AFETO"]
         },
         {
           "etapa": 4,
           "tema": "O amor forte como a morte e as muitas águas",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 10,
           "palavras": ["SELO", "CORAÇÃO", "FORTE", "CHAMA", "ÁGUAS", "INUNDAR", "ETERNO", "VALOR", "PAIXÃO", "INVIOLÁVEL"]
         }
@@ -869,28 +869,28 @@
         {
           "etapa": 2,
           "tema": "Profecias messiânicas: Emanuel e o príncipe da paz",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 9,
           "palavras": ["EMANUEL", "VIRGEM", "MENINO", "CONSELHO", "PODER", "PRÍNCIPE", "TRONO", "LUTA", "LUZ"]
         },
         {
           "etapa": 3,
           "tema": "O livramento de Ezequias e a grandeza de Deus",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["CONSOLO", "EZEQUIAS", "ORAÇÃO", "SOCORRO", "LIVRAMENTO", "CRIADOR", "ÁGUIAS", "FORÇA", "RENOVO", "SABEDORIA"]
         },
         {
           "etapa": 4,
           "tema": "O servo sofredor e o Redentor",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 9,
           "palavras": ["SERVO", "SACRIFÍCIO", "FERIDO", "OVELHA", "CURA", "REDENÇÃO", "AMOR", "RESGATE", "VITÓRIA"]
         },
         {
           "etapa": 5,
           "tema": "Novos céus, nova terra e a glória eterna",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 8,
           "palavras": ["ESPÍRITO", "RESTAURA", "ALEGRIA", "CIDADE", "NOVOCÉU", "NOVATERRA", "ETERNO", "PROMESSA"]
         }
@@ -911,21 +911,21 @@
         {
           "etapa": 2,
           "tema": "Perseguição, prisão e coragem do profeta",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 9,
           "palavras": ["PRISÃO", "POÇO", "MENSAGEM", "CORAGEM", "RESISTIR", "AFLIÇÃO", "LÂMINA", "FOGO", "CHORO"]
         },
         {
           "etapa": 3,
           "tema": "A carta aos exilados e a promessa de paz",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 9,
           "palavras": ["EXÍLIO", "CARTA", "BABILÔNIA", "70ANOS", "ESPERANÇA", "BUSCA", "PAZ", "FUTURO", "PROMESSA"]
         },
         {
           "etapa": 4,
           "tema": "A nova aliança no coração",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 10,
           "palavras": ["ALIANÇA", "CORAÇÃO", "RESTAURA", "PERDÃO", "LEI", "GRAÇA", "AMOR", "RENOVADO", "CONSOLO", "UNIDADE"]
         }
@@ -939,21 +939,21 @@
         {
           "etapa": 1,
           "tema": "O luto e a dor pela queda de Jerusalém",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 10,
           "palavras": ["LAMENTO", "CHORO", "LUTO", "SAUDADE", "LÁGRIMAS", "CIDADE", "RUÍNAS", "DOR", "SOLITÁRIA", "PERDÃO"]
         },
         {
           "etapa": 2,
           "tema": "As misericórdias se renovam cada manhã",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["ESPERANÇA", "MEMÓRIA", "GRAÇA", "BONDADE", "COMPAIXÃO", "FIDELIDADE", "MANHÃ", "AMOR", "VIDA", "RENOVO"]
         },
         {
           "etapa": 3,
           "tema": "O clamor por socorro e restauração",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 9,
           "palavras": ["ORAÇÃO", "SOCORRO", "RESGATE", "CONVERSÃO", "RESTAURA", "HUMILDADE", "VOLTAR", "SENHOR", "CUIDADO"]
         }
@@ -974,28 +974,28 @@
         {
           "etapa": 2,
           "tema": "Encenações proféticas e a idolatria no templo",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 9,
           "palavras": ["SÍMBOLO", "CERCO", "TIJOLO", "CABELO", "TEMPLO", "PARTIDA", "JUÍZO", "EXÍLIO", "SANTO"]
         },
         {
           "etapa": 3,
           "tema": "O bom pastor e o coração de carne",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 9,
           "palavras": ["PASTOR", "OVELHAS", "CUIDADO", "RENOVADO", "CORAÇÃO", "CARNE", "PEDRA", "ESPÍRITO", "GRAÇA"]
         },
         {
           "etapa": 4,
           "tema": "O vale de ossos secos e a restauração",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["VALE", "OSSOS", "FÔLEGO", "SOPRO", "EXÉRCITO", "RENASCER", "UNIÃO", "PROMESSA", "ESPIRITO", "PODER"]
         },
         {
           "etapa": 5,
           "tema": "O novo templo e as águas vivas",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 9,
           "palavras": ["MEDIDA", "ÁGUAS", "RIO", "CURA", "FRUTOS", "VIDA", "PRESENÇA", "HERANÇA", "SENHOR"]
         }
@@ -1016,28 +1016,28 @@
         {
           "etapa": 2,
           "tema": "A fornalha ardente e os três jovens",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 10,
           "palavras": ["FORNALHA", "FOGO", "ANJO", "PROTEÇÃO", "RECUSA", "DECRETO", "MILAGRE", "LOUVOR", "SADRAQUE", "LIVRAMENTO"]
         },
         {
           "etapa": 3,
           "tema": "A escrita na parede e a queda da Babilônia",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["BANQUETE", "PAREDE", "ESCRITA", "MISTÉRIO", "JUÍZO", "BELSAZAR", "PESADO", "REVELA", "COROA", "FIM"]
         },
         {
           "etapa": 4,
           "tema": "Daniel na cova dos leões",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["DANIEL", "ORAÇÃO", "JANELA", "COVA", "LEÕES", "DARIO", "CORAGEM", "ÍNTEGRO", "LIVRE", "RESPEITO"]
         },
         {
           "etapa": 5,
           "tema": "Visões proféticas e a esperança do reino",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 10,
           "palavras": ["BESTAS", "ANCIÃO", "VISÃO", "GABRIEL", "SEMANAS", "PROFÉTICO", "REINO", "ETERNO", "PROMESSA", "GLÓRIA"]
         }
@@ -1058,28 +1058,28 @@
         {
           "etapa": 2,
           "tema": "O apelo ao conhecimento de Deus",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 9,
           "palavras": ["SABER", "CONHECER", "ALERTA", "PALAVRA", "ENSINO", "CORAÇÃO", "VOLTAR", "SINCERO", "SABEDORIA"]
         },
         {
           "etapa": 3,
           "tema": "Misericórdia em vez de sacrifício",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 8,
           "palavras": ["GRAÇA", "RESPEITO", "JUSTIÇA", "VERDADE", "PUREZA", "OFERTA", "SINCERA", "BONDADE"]
         },
         {
           "etapa": 4,
           "tema": "O amor do pai e o cuidado com o filho",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 9,
           "palavras": ["PAI", "FILHO", "CUIDADO", "EGITO", "ABRAÇO", "COMPAIXÃO", "CARINHO", "PROTEÇÃO", "GUIAR"]
         },
         {
           "etapa": 5,
           "tema": "Promessa de cura e florescimento",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 9,
           "palavras": ["CURA", "RENOVO", "LÍRIO", "FLORESCER", "VIDA", "LÍBANO", "FRUTOS", "PASTOR", "RESTAURO"]
         }
@@ -1100,21 +1100,21 @@
         {
           "etapa": 2,
           "tema": "Rasgai o coração e não as vestes",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 10,
           "palavras": ["TROMBETA", "SIÃO", "CORAÇÃO", "VOLTAR", "GRAÇA", "BONDADE", "PERDÃO", "RESTITUI", "TRIGO", "AZEITE"]
         },
         {
           "etapa": 3,
           "tema": "O derramamento do Espírito Santo",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["ESPÍRITO", "PROMETE", "SONHOS", "VISÕES", "JOVENS", "FILHOS", "PROFETAS", "LIVRE", "INVOCAR", "SALVAÇÃO"]
         },
         {
           "etapa": 4,
           "tema": "O vale da decisão e a paz eterna",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 9,
           "palavras": ["VALE", "DECISÃO", "JUÍZO", "NAÇÕES", "JUSTIÇA", "REFÚGIO", "MONTES", "PRESENÇA", "ETERNO"]
         }
@@ -1135,28 +1135,28 @@
         {
           "etapa": 2,
           "tema": "A defesa dos pobres e a justiça",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 9,
           "palavras": ["JUSTIÇA", "POBRES", "DIREITO", "PRATA", "BALANÇA", "RESPEITO", "CUIDADO", "IGUALDADE", "PROTEÇÃO"]
         },
         {
           "etapa": 3,
           "tema": "A adoração sincera e o ribeiro impetuoso",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 8,
           "palavras": ["CÂNTICOS", "OFERTA", "SINCERA", "LOUVOR", "ÁGUAS", "RIBEIRO", "CORAÇÃO", "PUREZA"]
         },
         {
           "etapa": 4,
           "tema": "As visões proféticas e o prumo",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 9,
           "palavras": ["PRUMO", "FOGO", "VISÃO", "MEDIDA", "PALAVRA", "MENSAGEM", "AVISO", "VERDADE", "SENHOR"]
         },
         {
           "etapa": 5,
           "tema": "A restauração do tabernáculo de Davi",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 10,
           "palavras": ["TENDA", "DAVI", "RENOVO", "COLHEITA", "PLANTAR", "FRUTOS", "TERRA", "PROMESSA", "ESPERA", "RESTAURA"]
         }
@@ -1170,14 +1170,14 @@
         {
           "etapa": 1,
           "tema": "O orgulho nas rochas e a sentença",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 9,
           "palavras": ["EDOM", "ROCHA", "NINHO", "ÁGUIA", "ORGULHO", "ALTO", "SENTENÇA", "ALERTA", "SENHOR"]
         },
         {
           "etapa": 2,
           "tema": "O dia do Senhor e o reino de Sião",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 9,
           "palavras": ["JACÓ", "IRMÃO", "SIÃO", "LIVRAMENTO", "HERANÇA", "VITÓRIA", "SANTO", "REINO", "RESTAURA"]
         }
@@ -1198,21 +1198,21 @@
         {
           "etapa": 2,
           "tema": "O grande peixe e a oração nas profundezas",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 9,
           "palavras": ["PEIXE", "ORAÇÃO", "PROFUNDO", "ÁGUAS", "VOTO", "GRAÇA", "LIVRE", "RESGATE", "SALVAÇÃO"]
         },
         {
           "etapa": 3,
           "tema": "A pregação e o arrependimento de Nínive",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 9,
           "palavras": ["PREGAÇÃO", "CIDADE", "REI", "JEJUM", "CLAMOR", "PERDÃO", "MUDANÇA", "PANO", "CINZA"]
         },
         {
           "etapa": 4,
           "tema": "A lição da planta e o amor de Deus",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 9,
           "palavras": ["PLANTA", "SOMBRA", "VERME", "LIÇÃO", "AMOR", "COMPAIXÃO", "CUIDADO", "CORAÇÃO", "SENHOR"]
         }
@@ -1233,23 +1233,23 @@
         {
           "etapa": 2,
           "tema": "Liderança injusta vs. o poder do Espírito",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 8,
           "palavras": ["PODER", "ESPÍRITO", "FORÇA", "LIDERANÇA", "RESPEITO", "CORAGEM", "PALAVRA", "PUREZA"]
         },
         {
           "etapa": 3,
           "tema": "O reino de paz e a promessa em Belém",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 9,
           "palavras": ["BELÉM", "MESSIAS", "PAZ", "REINO", "ARADOS", "PROMESSA", "PASTOR", "GOVERNO", "ESPERA"]
         },
         {
           "etapa": 4,
           "tema": "O que Deus requer e sua misericórdia",
-          "dificuldade": "nivel_2",
-          "qtd_palavras": 9,
-          "palavras": ["BONDADE", "HUMILDE", "AMOR", "PERDÃO", "MAR", "GRAÇA", "VERDADE", "COMPAIXÃO", "SENHOR"]
+          "dificuldade": "nivel_4",
+          "qtd_palavras": 8,
+          "palavras": ["BONDADE", "HUMILDE", "AMOR", "PERDÃO", "MAR", "GRAÇA", "COMPAIXÃO", "SENHOR"]
         }
       ]
     },
@@ -1261,21 +1261,21 @@
         {
           "etapa": 1,
           "tema": "A justiça divina e o refúgio em Deus",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 8,
           "palavras": ["NAUM", "REFÚGIO", "SENHOR", "PODER", "JUSTIÇA", "BOM", "CONSOLO", "LIBERTA"]
         },
         {
           "etapa": 2,
           "tema": "O cerco e a queda de Nínive",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["NÍNIVE", "ESCUDO", "CARROS", "BATALHA", "MURALHA", "ÁGUAS", "QUEDA", "FOGO", "VALENTE", "TORMENTA"]
         },
         {
           "etapa": 3,
           "tema": "O fim da opressão e a vitória",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 9,
           "palavras": ["FIM", "OPRESSÃO", "ALÍVIO", "VERDADE", "JUÍZO", "VITÓRIA", "ALEGRIA", "PAZ", "JUSTO"]
         }
@@ -1289,21 +1289,21 @@
         {
           "etapa": 1,
           "tema": "O clamor do profeta e a resposta divina",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 9,
           "palavras": ["HABACUQUE", "CLAMOR", "JUSTIÇA", "RESPOSTA", "SENHOR", "DÚVIDA", "ALERTA", "ORÁCULO", "PONDERAR"]
         },
         {
           "etapa": 2,
           "tema": "A sentinela na torre e o justo pela fé",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 9,
           "palavras": ["TORRE", "TORREÃO", "TÁBUAS", "ESCREVER", "VISÃO", "JUSTO", "FÉ", "ESPERA", "VERDADE"]
         },
         {
           "etapa": 3,
           "tema": "A oração, o cântico e a fé inabalável",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 9,
           "palavras": ["AVIVA", "OBRA", "FIGUEIRA", "FRUTO", "ALEGRIA", "FORÇA", "ALTURAS", "LOUVOR", "SALVAÇÃO"]
         }
@@ -1317,21 +1317,21 @@
         {
           "etapa": 1,
           "tema": "O alerta sobre o dia do Senhor",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 9,
           "palavras": ["SOFONIAS", "ALERTA", "JUSTIÇA", "TROMBETA", "BUSCA", "VERDADE", "PUREZA", "TEMPO", "AVISO"]
         },
         {
           "etapa": 2,
           "tema": "O chamado aos humildes e o arrependimento",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 9,
           "palavras": ["HUMILDE", "MANSIDÃO", "ABRIGO", "CONFIA", "RESPEITO", "PURIFICA", "LÁBIOS", "GRAÇA", "PAZ"]
         },
         {
           "etapa": 3,
           "tema": "A restauração e o cântico de alegria",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 9,
           "palavras": ["ALEGRIA", "CÂNTICO", "AMOR", "RENOVA", "LOUVOR", "HONRA", "POVO", "FESTA", "SENHOR"]
         }
@@ -1345,14 +1345,14 @@
         {
           "etapa": 1,
           "tema": "O chamado à reconstrução do templo",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 9,
           "palavras": ["AGEU", "TEMPLO", "CASA", "OBRA", "MONTE", "MADEIRA", "TRABALHO", "ZOROBABEL", "JOSUÉ"]
         },
         {
           "etapa": 2,
           "tema": "A glória da segunda casa e as bênçãos",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 9,
           "palavras": ["GLÓRIA", "PAZ", "BÊNÇÃO", "PRATA", "OURO", "FIRME", "CORAGEM", "PROMESSA", "SENHOR"]
         }
@@ -1366,21 +1366,21 @@
         {
           "etapa": 1,
           "tema": "As visões noturnas e o poder do espírito",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 9,
           "palavras": ["ZACARIAS", "VISÃO", "CAVALOS", "CASTIÇAL", "OLIVEIRA", "ESPÍRITO", "PODER", "FORÇA", "ANJO"]
         },
         {
           "etapa": 2,
           "tema": "O chamado à justiça, verdade e paz",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 8,
           "palavras": ["JUSTIÇA", "VERDADE", "AMOR", "COMPAIXÃO", "CIDADE", "RUAS", "ALEGRIA", "RENOVO"]
         },
         {
           "etapa": 3,
           "tema": "As profecias messiânicas e o rei humilde",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 10,
           "palavras": ["REI", "HUMILDE", "JUMENTO", "SANTIDADE", "MESSIAS", "PASTOR", "PRATA", "VITÓRIA", "ÁGUA", "ETERNO"]
         }
@@ -1394,21 +1394,21 @@
         {
           "etapa": 1,
           "tema": "O amor divino e a fidelidade na aliança",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 9,
           "palavras": ["MALAQUIAS", "AMOR", "ALIANÇA", "HONRA", "VERDADE", "RESPEITO", "SACERDOTE", "FIDELIDADE", "ALTAR"]
         },
         {
           "etapa": 2,
           "tema": "Dízimos, ofertas e as janelas do céu",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 9,
           "palavras": ["DÍZIMO", "OFERTA", "BÊNÇÃO", "PROVA", "CÉU", "FARTURA", "MEMÓRIA", "JUSTO", "TEMOR"]
         },
         {
           "etapa": 3,
           "tema": "O Sol da justiça e a promessa final",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 8,
           "palavras": ["SOL", "JUSTIÇA", "CURA", "SALVAÇÃO", "MENSAGEIRO", "ELIAS", "CORAÇÃO", "FAMÍLIA"]
         }
@@ -1429,28 +1429,28 @@
         {
           "etapa": 2,
           "tema": "O sermão da montanha e os milagres",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 9,
           "palavras": ["MONTE", "BÊNÇÃO", "ORAÇÃO", "PERDÃO", "MILAGRE", "FÉ", "CURA", "CEGO", "SABEDORIA"]
         },
         {
           "etapa": 3,
           "tema": "Parábolas do reino e revelação",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["SEMEADOR", "SEMENTE", "TRIGO", "JOIO", "TESOURO", "PÉROLA", "REDE", "ROCHA", "CHAVE", "GLÓRIA"]
         },
         {
           "etapa": 4,
           "tema": "A entrada em Jerusalém e ensinamentos",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 9,
           "palavras": ["JUMENTO", "RAMOS", "TEMPLO", "MOEDA", "TALENTO", "LÂMPADA", "VIGILÂNCIA", "OVELHA", "JUIZ"]
         },
         {
           "etapa": 5,
           "tema": "As dez virgens, os talentos e o julgamento",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 9,
           "palavras": ["VIRGENS", "LÂMPADAS", "AZEITE", "NOIVO", "TALENTOS", "SERVOS", "CONTAS", "OVELHAS", "CABRITOS"]
         }
@@ -1471,28 +1471,28 @@
         {
           "etapa": 2,
           "tema": "Milagres e poder sobre a natureza",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 10,
           "palavras": ["TEMPESTADE", "VENTO", "MAR", "FLUXO", "TOQUE", "JAIRO", "MENINA", "MULTIDÃO", "PÃES", "PEIXES"]
         },
         {
           "etapa": 3,
           "tema": "Revelação e o caminho do servo",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["CONFISSÃO", "CESAREIA", "MANTOS", "NUVEM", "ROSTO", "RESGATE", "SERVIÇO", "CEGO", "BARTIMEU", "SINAIS"]
         },
         {
           "etapa": 4,
           "tema": "Entrada em Jerusalém e ensinamentos",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["FIGUEIRA", "ORAÇÃO", "OLIVEIRAS", "OFERTÓRIO", "VIÚVA", "CÉSAR", "PERSEVERA", "ALERTA", "FIM", "TEMPO"]
         },
         {
           "etapa": 5,
           "tema": "A unção em Betânia e a preparação da ceia",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 10,
           "palavras": ["BETÂNIA", "NARDO", "PERFUME", "ALABASTRO", "CABEÇA", "DISCÍPULOS", "PÁSCOA", "CIDADE", "SALA", "MESTRE"]
         }
@@ -1513,28 +1513,28 @@
         {
           "etapa": 2,
           "tema": "O ministério e a misericórdia",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 10,
           "palavras": ["NAZARÉ", "SINAGOGA", "POBRES", "CATIVOS", "LIVRAMENTO", "NAIM", "VIÚVA", "GRATIDÃO", "PECADORA", "SANGUE"]
         },
         {
           "etapa": 3,
           "tema": "Parábolas da graça e Zaqueu",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["SAMARITANO", "PRÓDIGO", "ABRAÇO", "FESTA", "PERDIDO", "MOEDA", "ZAQUEU", "JERICÓ", "LEPROSO", "GRAÇA"]
         },
         {
           "etapa": 4,
           "tema": "A parábola das minas e o ensino no templo",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["MINAS", "NOBRE", "SERVO", "NEGOCIAR", "GANHO", "REINO", "RETORNO", "TEMOR", "TEMPLO", "OFERTA"]
         },
         {
           "etapa": 5,
           "tema": "Crucificação, Emaús e ascensão",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 10,
           "palavras": ["SUOR", "LADRÃO", "PARAÍSO", "PERDÃO", "EMAÚS", "CORAÇÃO", "PARTILHA", "PROMESSA", "ASCENSÃO", "ALEGRIA"]
         }
@@ -1555,28 +1555,28 @@
         {
           "etapa": 2,
           "tema": "O pão da vida e a luz do mundo",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 9,
           "palavras": ["PÃO", "LUZ", "PASTOR", "OVELHA", "BETESDA", "SILOÉ", "CEGUEIRA", "VIDA", "ETERNA"]
         },
         {
           "etapa": 3,
           "tema": "A ressurreição de Lázaro",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["LÁZARO", "SEPULCRO", "MARTA", "MARIA", "LÁGRIMAS", "TRIGO", "FRUTO", "GLÓRIA", "CRENÇA", "SINAL"]
         },
         {
           "etapa": 4,
           "tema": "Lava-pés, a videira e o consolador",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["TOALHA", "BACIA", "AMOR", "VIDEIRA", "RAMO", "ESPÍRITO", "CONSOLADOR", "UNIDADE", "PAZ", "AMIGO"]
         },
         {
           "etapa": 5,
           "tema": "A pesca no lago e a restauração de Pedro",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 10,
           "palavras": ["TIBERÍADES", "PEDRO", "BARCO", "REDE", "PEIXES", "PRAIA", "BRASAS", "CORDEIROS", "APASCENTA", "SEGUIR"]
         }
@@ -1597,28 +1597,28 @@
         {
           "etapa": 2,
           "tema": "Samaria, Damasco e os gentios",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 10,
           "palavras": ["FILIPE", "ETÍOPE", "DESERTO", "DAMASCO", "VISÃO", "LANCE", "CORNÉLIO", "GENTIOS", "DORCAS", "LIBERTAÇÃO"]
         },
         {
           "etapa": 3,
           "tema": "Viagens missionárias e milagres",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["ANTIOQUIA", "BARNABÉ", "LÍDIA", "CÁRCERE", "TERREMOTO", "SILAS", "ATENAS", "AREÓPAGO", "ÉFESO", "MISSÃO"]
         },
         {
           "etapa": 4,
           "tema": "Prisão, julgamento e defesa",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["CADEIAS", "TRIBUNAL", "FÉLIX", "FESTO", "AGRIPA", "APELO", "TESTEMUNHO", "RAZÃO", "SOLDADOS", "GUARDA"]
         },
         {
           "etapa": 5,
           "tema": "Naufrágio, Malta e chegada a Roma",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 9,
           "palavras": ["TEMPESTADE", "NAUFRÁGIO", "MALTA", "VÍBORA", "FOGUEIRA", "CURAS", "ROMA", "PRISÃO", "CÉSAR"]
         }
@@ -1639,28 +1639,28 @@
         {
           "etapa": 2,
           "tema": "Mortos para o pecado, vivos em Cristo",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 10,
           "palavras": ["BATISMO", "VIDA", "SANTO", "LEI", "CARNE", "LUTA", "LIBERDADE", "ESPÍRITO", "ADOÇÃO", "HERDEIROS"]
         },
         {
           "etapa": 3,
           "tema": "Vida no Espírito e o amor inseparável",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["VITÓRIA", "ESPERANÇA", "VENCEDOR", "AMOR", "OLIVEIRA", "RAIZ", "RAMOS", "CONFISSÃO", "BOCA", "BÊNÇÃO"]
         },
         {
           "etapa": 4,
           "tema": "Culto racional e transformação prática",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["SACRIFÍCIO", "MENTE", "DONS", "SERVIÇO", "RESPEITO", "HUMILDADE", "BEM", "PACIÊNCIA", "ORAÇÃO", "ACOLHER"]
         },
         {
           "etapa": 5,
           "tema": "Respeito às autoridades e saudações",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 10,
           "palavras": ["GOVERNO", "ORDEM", "TRIBUTO", "FEBE", "PRISCILLA", "ÁQUILA", "IRMÃOS", "UNIDADE", "SAUDAÇÃO", "AMÉM"]
         }
@@ -1681,28 +1681,28 @@
         {
           "etapa": 2,
           "tema": "Santidade, templo e casamento",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 10,
           "palavras": ["TEMPLO", "MORADA", "CORPO", "PUREZA", "CASAMENTO", "CELIBATO", "ACORDO", "EXEMPLO", "CUIDADO", "CARREIRA"]
         },
         {
           "etapa": 3,
           "tema": "A ceia do Senhor e o corpo de Cristo",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["CEIA", "PÃO", "CÁLICE", "MEMÓRIA", "MEMBROS", "HARMONIA", "DONS", "CURAS", "PROFECIA", "ORDEM"]
         },
         {
           "etapa": 4,
           "tema": "O supremo caminho do amor",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["PACIENTE", "BONDADE", "INVEJA", "ORGULHO", "VERDADE", "TUDOESPERA", "SUPORTA", "PERMANECE", "MAIOR", "PERFEITO"]
         },
         {
           "etapa": 5,
           "tema": "A ressurreição e a vitória sobre a morte",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 9,
           "palavras": ["PRIMÍCIAS", "TROMBETA", "VITÓRIA", "MUDANÇA", "INCORRUPTO", "OFERTA", "VIGILÂNCIA", "FIRMEZA", "TRABALHO"]
         }
@@ -1723,28 +1723,28 @@
         {
           "etapa": 2,
           "tema": "Tesouros em vasos de barro e a reconciliação",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 10,
           "palavras": ["VASO", "BARRO", "TESOURO", "RENOVA", "HABITAÇÃO", "MORADIA", "MIGRAÇÃO", "EMBAIXADOR", "TROCA", "GRAÇA"]
         },
         {
           "etapa": 3,
           "tema": "Generosidade e o doador alegre",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["MACEDÔNIA", "OFERTA", "ALEGRIA", "SEMEAR", "COLHEITA", "FARTURA", "SUPRIR", "GRATIDÃO", "JUSTO", "DÁDIVA"]
         },
         {
           "etapa": 4,
           "tema": "Armas espirituais e a defesa do ministério",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["FORTALEZA", "DEFESA", "ARMARIA", "CIÚME", "VISÕES", "PARAÍSO", "ZELO", "VERDADE", "AUTORIDADE", "LABUTA"]
         },
         {
           "etapa": 5,
           "tema": "O Espinho na carne e a graça bastante",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 10,
           "palavras": ["ESPINHO", "CARNE", "FRAQUEZA", "PODER", "BASTA", "PRAZER", "SINAIS", "PROVA", "BÊNÇÃO", "EXAME"]
         }
@@ -1765,28 +1765,28 @@
         {
           "etapa": 2,
           "tema": "Crucificado com Cristo e justo pela fé",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 10,
           "palavras": ["CRUCIFIXO", "VIVER", "JUSTIFICAR", "OBRAS", "RITUAL", "INÚTIL", "HERANÇA", "PROMESSAS", "CRENÇAS", "MALDIÇÃO"]
         },
         {
           "etapa": 3,
           "tema": "A lei como tutor e filhos de Deus",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["TUTOR", "ESCRAVO", "FILHOS", "PAI", "HERDEIRO", "TEMPO", "RESGATE", "CORAÇÃO", "CLAMOR", "AGAR"]
         },
         {
           "etapa": 4,
           "tema": "A liberdade em Cristo e as obras da carne",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 9,
           "palavras": ["LIBERTAR", "JUGO", "CARNE", "INIMIZADE", "INVEJAS", "AMOROSOS", "GUIADOS", "LEI", "SISTEMA"]
         },
         {
           "etapa": 5,
           "tema": "O fruto do espírito e a colheita",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 9,
           "palavras": ["BONDADE", "PACIÊNCIA", "MANSIDÃO", "DOMÍNIO", "SEMEAR", "COLHER", "FARTURA", "CARGA", "MARCAS"]
         }
@@ -1807,28 +1807,28 @@
         {
           "etapa": 2,
           "tema": "Salvação pela graça e reconciliação",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 10,
           "palavras": ["GRAÇA", "DOM", "OBRAS", "POVO", "BARREIRA", "EDIFÍCIO", "FUNDAÇÃO", "MIGRAÇÃO", "PEDRA", "PAZ"]
         },
         {
           "etapa": 3,
           "tema": "O mistério da igreja e a oração de Paulo",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["MISTÉRIO", "REVELADO", "FAMÍLIA", "MENSAGEM", "FORTALECER", "AMOR", "PROFUNDO", "PLENITUDE", "GLÓRIA", "REINO"]
         },
         {
           "etapa": 4,
           "tema": "Unidade do corpo e o novo homem",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["UNIDADE", "BATISMO", "MESTRES", "CRESCER", "VERDADE", "LUZ", "BONDADE", "LOUVOR", "SUBMISSÃO", "CUIDADO"]
         },
         {
           "etapa": 5,
           "tema": "A batalha espiritual e a armadura de Deus",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 10,
           "palavras": ["ARMADURA", "CINTO", "COURAÇA", "ESCUDO", "CAPACETE", "ESPADA", "ORAÇÃO", "VIGILÂNCIA", "ALERTA", "LUTAS"]
         }
@@ -1849,28 +1849,28 @@
         {
           "etapa": 2,
           "tema": "O exemplo de humildade e servidão de Jesus",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 10,
           "palavras": ["HUMILDADE", "SERVO", "OBEDIÊNCIA", "EXALTADO", "LUZEIROS", "RESPLANDOR", "CUIDAR", "TIMÓTEO", "AFETO", "UNIDADE"]
         },
         {
           "etapa": 3,
           "tema": "O conhecimento de Cristo e o alvo da fé",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["GANHO", "PERDA", "ALVO", "CIDADANIA", "CÉUS", "AUMENTO", "MARCHA", "EXEMPLO", "PÁTRIA", "CORRIDA"]
         },
         {
           "etapa": 4,
           "tema": "A paz de Deus que excede o entendimento",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["ALEGRIA", "ANSIEDADE", "SÚPLICA", "AÇÃO", "GRAÇAS", "PENSAR", "HONRA", "PUREZA", "VIRTUDE", "LOUVOR"]
         },
         {
           "etapa": 5,
           "tema": "O segredo do contentamento e a força em Cristo",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 9,
           "palavras": ["SEGREDO", "SUFICIENTE", "FARTURA", "FORÇA", "BEMFAZER", "OFERTA", "SUPRIR", "GLÓRIA", "SAUDAÇÃO"]
         }
@@ -1891,28 +1891,28 @@
         {
           "etapa": 2,
           "tema": "Plenitude em Cristo e alerta contra falsas doutrinas",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 10,
           "palavras": ["PLENITUDE", "FILOSOFIA", "TRADIÇÃO", "ENGANO", "RITUAIS", "CANCELAR", "DÍVIDA", "MADEIRO", "TRIUNFO", "SOMBRA"]
         },
         {
           "etapa": 3,
           "tema": "Buscai as coisas do alto e o vínculo da perfeição",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["RESSURGIR", "ALTURA", "DESPOJAR", "COMPAIXÃO", "VÍNCULO", "PERFEIÇÃO", "AFETO", "PERDOAR", "BONDADE", "PERDURAR"]
         },
         {
           "etapa": 4,
           "tema": "Instruções práticas para a família e trabalho",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["ESPOSAS", "MARIDOS", "FILHOS", "PAIS", "SERVOS", "SENHORES", "CORAÇÃO", "RECOMPENSA", "SUBMISSÃO", "LEAL"]
         },
         {
           "etapa": 5,
           "tema": "Perseverança na oração e saudações finais",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 10,
           "palavras": ["PERSEVERAR", "VIGILÂNCIA", "SABER", "TEMPERO", "MENSAGEM", "PARCEIRO", "CONSOLO", "BILHETE", "LEITURA", "ONÉSIMO"]
         }
@@ -1933,28 +1933,28 @@
         {
           "etapa": 2,
           "tema": "O cuidado paternal e a missão de Timóteo",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 10,
           "palavras": ["PAI", "MÃE", "AMOROSO", "TRABALHO", "CUIDADO", "TERNURA", "TIMÓTEO", "TRIBULAÇÃO", "NOTÍCIA", "AFETO"]
         },
         {
           "etapa": 3,
           "tema": "A vida em santificação e o amor fraternal",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["SANTIDADE", "HONRA", "PUREZA", "CORPO", "ZELO", "TRANQUILO", "NEGÓCIOS", "TRABALHAR", "OFÍCIO", "ORDEM"]
         },
         {
           "etapa": 4,
           "tema": "A vinda do Senhor e o arrebatamento",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 9,
           "palavras": ["RETORNO", "TROMBETA", "RESSURGIR", "NUVENS", "ENCONTRO", "CONSOLO", "MORTE", "VIDA", "SENHOR"]
         },
         {
           "etapa": 5,
           "tema": "Vigilância, filhos da luz e exortações finais",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 10,
           "palavras": ["LADRÃO", "NOITE", "VIGILÂNCIA", "SÓBRIO", "LUZ", "LÍDERES", "AGRADECER", "ESPÍRITO", "PROFECIA", "ACOLHO"]
         }
@@ -1975,28 +1975,28 @@
         {
           "etapa": 2,
           "tema": "A apostasia e a revelação do iníquo",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 10,
           "palavras": ["APOSTASIA", "INÍQUO", "DETENTOR", "SOPRO", "DESTRUIÇÃO", "SINAIS", "MALDADE", "ENGANAR", "MISTÉRIO", "CUIDADO"]
         },
         {
           "etapa": 3,
           "tema": "Firmes na verdade e escolhidos para salvação",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["FIRMEZA", "TRADIÇÃO", "ACOLHER", "SALVAÇÃO", "CRER", "ESTÁVEL", "AMPARO", "BOM", "ENSINO", "ESCOLHA"]
         },
         {
           "etapa": 4,
           "tema": "Exortação contra a preguiça e o exemplo do trabalho",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["DESORDEM", "PREGUIÇA", "PÃO", "ESFORÇO", "PADRÃO", "PACÍFICO", "COMER", "FADIGA", "CANSAÇO", "SUOR"]
         },
         {
           "etapa": 5,
           "tema": "Oração, proteção do mal e bênção final",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 9,
           "palavras": ["PROTEGER", "FIDELIDADE", "DIREÇÃO", "PERSEVERA", "SAUDAÇÃO", "ASSINATURA", "SOSSEGO", "MESTRE", "TODOS"]
         }
@@ -2017,28 +2017,28 @@
         {
           "etapa": 2,
           "tema": "Oração intercessora e o único mediador",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 10,
           "palavras": ["SÚPLICAS", "MEDIADOR", "REIS", "TRANQUILO", "RESGATE", "FIRMEZA", "MODÉSTIA", "ORAR", "TRAJES", "DEUS"]
         },
         {
           "etapa": 3,
           "tema": "Qualificações de bispos e diáconos",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["BISPO", "DIÁCONO", "HONESTO", "ACOLHER", "FAMÍLIA", "GOVERNO", "PROVA", "SOBRIEDADE", "LAR", "COLUNA"]
         },
         {
           "etapa": 4,
           "tema": "O bom ministro de Cristo e o exemplo dos fiéis",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["EXERCÍCIO", "MOCIDADE", "GUIA", "LEITURA", "DOM", "VIÚVAS", "ESTIMA", "PRESBÍTERO", "PRÁTICA", "ZELO"]
         },
         {
           "etapa": 5,
           "tema": "A piedade com contentamento e o bom combate",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 10,
           "palavras": ["PIEDADE", "LUCRO", "DINHEIRO", "RIQUEZA", "COMBATE", "DIREITO", "CONSTÂNCIA", "MANSIDÃO", "DEPÓSITO", "GUARDAR"]
         }
@@ -2059,28 +2059,28 @@
         {
           "etapa": 2,
           "tema": "O soldado, o atleta, o lavrador e o obreiro aprovado",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 10,
           "palavras": ["SOLDADO", "ATLETA", "LAVRADOR", "REGRAS", "TROFÉU", "OBREIRO", "APROVADO", "MANEJAR", "CADEIAS", "ROCHA"]
         },
         {
           "etapa": 3,
           "tema": "Tempos difíceis e a utilidade da escritura inspirada",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["PERIGO", "EGOÍSMO", "SABER", "SOPRADO", "ÚTIL", "REPREENDER", "CORREÇÃO", "COMPLETO", "INFÂNCIA", "VERSOS"]
         },
         {
           "etapa": 4,
           "tema": "O bom combate, a carreira e a coroa da justiça",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["PREGAR", "CARREIRA", "COROA", "JUIZ", "AMAR", "PARTIDA", "LIBAÇÃO", "GUARDA", "APARIÇÃO", "PRÊMIO"]
         },
         {
           "etapa": 5,
           "tema": "Recomendações pessoais, pergaminhos e despedida",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 10,
           "palavras": ["LUCAS", "MARCOS", "CAPA", "ESCRITOS", "PERGAMINHO", "INVERNO", "RESGATE", "REINO", "COURO", "SAUDAÇÃO"]
         }
@@ -2101,28 +2101,28 @@
         {
           "etapa": 2,
           "tema": "A sã doutrina no cotidiano",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 10,
           "palavras": ["IDOSOS", "JOVENS", "CUIDADO", "MODERADO", "REVERENTE", "MARIDO", "FILHOS", "FAMA", "FIDELIDADE", "LÍMPIDO"]
         },
         {
           "etapa": 3,
           "tema": "A graça redentora e a esperança",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["FAVOR", "ALENTO", "IMPIEDADE", "PAIXÕES", "CORRETO", "MUNDO", "ANSEIO", "RESGATE", "POVO", "MENSAGEM"]
         },
         {
           "etapa": 4,
           "tema": "A misericórdia, regeneração e boas obras",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 9,
           "palavras": ["SUBMISSÃO", "BONDADE", "BEM", "RENOVADO", "HERDEIROS", "AÇÕES", "UTILIDADE", "TOLAS", "DISPUTA"]
         },
         {
           "etapa": 5,
           "tema": "Instruções finais, viagem e saudações",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 10,
           "palavras": ["ARTEMAS", "TÍQUICO", "NICÓPOLIS", "ESTAÇÃO", "AJUDA", "VIAGEM", "SOCORRO", "FRUTO", "SAUDAÇÃO", "AMIGOS"]
         }
@@ -2143,28 +2143,28 @@
         {
           "etapa": 2,
           "tema": "O apelo por Onésimo, o filho na fé",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 10,
           "palavras": ["ONÉSIMO", "ROGO", "AFETO", "ALGEMAS", "PRISÃO", "GERADO", "FILHO", "CORAÇÃO", "ÚTIL", "SERVIÇO"]
         },
         {
           "etapa": 3,
           "tema": "De escravo a irmão amado no Senhor",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["VOLTAR", "DESTINO", "SEPARAÇÃO", "ETERNO", "ESCRAVO", "IRMÃO", "AMADO", "DIVINO", "CARNE", "BEM"]
         },
         {
           "etapa": 4,
           "tema": "Perdão, restituição e responsabilidade",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["RECEBER", "PREJUÍZO", "DÍVIDA", "PAGAR", "CONTA", "PRÓPRIO", "RESPEITO", "PEDIDO", "QUITAR", "SOLTO"]
         },
         {
           "etapa": 5,
           "tema": "Hospedagem, saudações finais e graça",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 10,
           "palavras": ["QUARTO", "VISITA", "ORAÇÕES", "ÉPAFRAS", "COMPANHIA", "ARISTARCO", "DEMAS", "APOIO", "BÊNÇÃO", "DESPEDIDA"]
         }
@@ -2185,28 +2185,28 @@
         {
           "etapa": 2,
           "tema": "Jesus, sumo sacerdote segundo a ordem de Melquisedeque",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 10,
           "palavras": ["SALÉM", "SACERDOTE", "PERPÉTUO", "JURAMENTO", "ORDEM", "LEVI", "PAGO", "PERFEITO", "ALTÍSSIMO", "PODER"]
         },
         {
           "etapa": 3,
           "tema": "O tabernáculo celestial e o sacrifício único",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["SACRIFÍCIO", "CANDELABRO", "VÉU", "VERMELHO", "REDENÇÃO", "PERDÃO", "OFERTA", "SANTUÁRIO", "ENTRADA", "LAVAGEM"]
         },
         {
           "etapa": 4,
           "tema": "A galeria da fé e os antigos heróis",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["CERTEZA", "FIRME", "ENOQUE", "BARAQUE", "GIDEÃO", "PROMETIDO", "PÁTRIA", "FORASTEIRO", "MILAGRES", "ALVO"]
         },
         {
           "etapa": 5,
           "tema": "Perseverança, olhar em Jesus e culto agradável",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 10,
           "palavras": ["NUVEM", "CORRER", "AUTOR", "FOGO", "ACOLHIDA", "LEITO", "PRAZER", "LOUVOR", "PASTOR", "AMÉM"]
         }
@@ -2227,28 +2227,28 @@
         {
           "etapa": 2,
           "tema": "Acepção de pessoas e a fé com obras",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 10,
           "palavras": ["ANEL", "PRATA", "POBRE", "FAVOR", "MORTA", "CARCAÇA", "REGRA", "VIZINHO", "AÇÃO", "FEITOS"]
         },
         {
           "etapa": 3,
           "tema": "O controle da língua e a sabedoria do alto",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["BOCA", "FREIO", "LEME", "FAGULHA", "FLORESTA", "VENENO", "PACÍFICA", "FRUTOS", "PURAS", "FONTE"]
         },
         {
           "etapa": 4,
           "tema": "Submissão a Deus, humildade e a incerteza do amanhã",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["INVEJA", "SOBERBA", "HUMILDE", "DIABO", "FUGIR", "VAPOR", "SÉCULO", "LANCE", "JUIZ", "MUNDANO"]
         },
         {
           "etapa": 5,
           "tema": "Paciência, oração do justo e confissão",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 9,
           "palavras": ["PACIÊNCIA", "CHUVA", "ELIAS", "ÓLEO", "ENFERMO", "CONFESSAR", "FERVOR", "CURA", "PECADOR"]
         }
@@ -2269,28 +2269,28 @@
         {
           "etapa": 2,
           "tema": "A pedra viva e o povo escolhido",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 10,
           "palavras": ["PEDRA", "ÂNGULO", "EDIFÍCIO", "GERAÇÃO", "SACERDÓCIO", "NAÇÃO", "TREVAS", "CLARIDADE", "SANTOS", "SINAL"]
         },
         {
           "etapa": 3,
           "tema": "Submissão, harmonia no lar e pagar o mal com o bem",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["HONRA", "REI", "SERVO", "MANSO", "ESPOSO", "CÔNJUGE", "PACÍFICO", "BÊNÇÃO", "AMÁVEL", "PENSAMENTO"]
         },
         {
           "etapa": 4,
           "tema": "Defesa da fé, batismo e sofrimento por Cristo",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["DEFESA", "RAZÃO", "MANSIDÃO", "BATISMO", "MENTE", "EMBARQUE", "AGUARDAR", "LOUVORES", "NOME", "DESAFIOS"]
         },
         {
           "etapa": 5,
           "tema": "Apascentar o rebanho, vigilância e firmeza",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 10,
           "palavras": ["REBANHO", "DIADEMA", "ANCIÃO", "VIGILÂNCIA", "LEÃO", "RUGIR", "SEGURO", "SOCORRO", "VITÓRIA", "FINAL"]
         }
@@ -2311,28 +2311,28 @@
         {
           "etapa": 2,
           "tema": "Testemunhas oculares e a inspiração sagrada",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 10,
           "palavras": ["FÁBULAS", "MONTE", "MAJESTADE", "SANTOS", "PROFECIA", "INSPIRAÇÃO", "ESPÍRITO", "ANÚNCIO", "REGISTRO", "ESCUTO"]
         },
         {
           "etapa": 3,
           "tema": "O perigo dos falsos mestres e heresias",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["HERESIA", "ENGANO", "GANÂNCIA", "SODOMA", "GOMORRA", "SALVAMENTO", "FONTE", "NÉVOA", "LAÇO", "PERDIÇÃO"]
         },
         {
           "etapa": 4,
           "tema": "O tempo do Senhor e a sua paciência",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["ZOMBADOR", "MIL", "ANOS", "DEMORA", "CALMO", "MUDANÇA", "PACTO", "ESPERAR", "VOLTA", "TEMPO"]
         },
         {
           "etapa": 5,
           "tema": "O dia do Senhor, novos céus e crescimento",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 10,
           "palavras": ["LADRÃO", "ESTRONDO", "ELEMENTOS", "DISSOLVER", "PAULO", "ESCRITOS", "DETURPAR", "BONDADE", "AMADURECER", "PERITO"]
         }
@@ -2353,28 +2353,28 @@
         {
           "etapa": 2,
           "tema": "Advertência contra o mundo e o anticristo",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 10,
           "palavras": ["CARNE", "OLHOS", "SOBERBA", "SAÍRAM", "UNÇÃO", "PERMANECER", "ENSINO", "GUARDA", "ALERTA", "DIFERENTE"]
         },
         {
           "etapa": 3,
           "tema": "Filhos de Deus e o amor em ação",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 9,
           "palavras": ["FILHOS", "SEMENTE", "AÇÃO", "LÍNGUA", "RECURSO", "CORAÇÃO", "CANDOR", "PRÁTICA", "PURIFICAR"]
         },
         {
           "etapa": 4,
           "tema": "Provar os espíritos e Deus é amor",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["TESTAR", "PROCEDER", "MEDO", "PRIMEIRO", "MENTIROSO", "REVELAR", "INVISÍVEL", "ENVIADO", "ACOLHER", "LIGAÇÃO"]
         },
         {
           "etapa": 5,
           "tema": "A vitória da fé e a vida eterna",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 9,
           "palavras": ["VITÓRIA", "ÁGUA", "SANGUE", "PEDIDO", "OUVIDO", "ÍDOLOS", "CERTEZA", "ESCUTA", "CONFIAR"]
         }
@@ -2395,28 +2395,28 @@
         {
           "etapa": 2,
           "tema": "Andar nos mandamentos do pai",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 10,
           "palavras": ["ALEGRIA", "PRINCÍPIO", "RECORRER", "MANDATO", "ANDAR", "FIDELIDADE", "CAMINHAR", "VIVER", "OBEDECER", "REGRAS"]
         },
         {
           "etapa": 3,
           "tema": "Alerta contra os enganadores",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 9,
           "palavras": ["ENGANADOR", "DESVIO", "LIMITE", "GALARDÃO", "PERDA", "VIGILÂNCIA", "ALERTA", "PREVENÇÃO", "DOUTRINA"]
         },
         {
           "etapa": 4,
           "tema": "Rejeição à hospitalidade herética",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["ABRIGO", "CASA", "SAUDAÇÃO", "CÚMPLICE", "CUIDADO", "FALSARIA", "PORTA", "CORTAR", "RECUSAR", "ISOLAR"]
         },
         {
           "etapa": 5,
           "tema": "Desejo de visita presencial e despedida",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 10,
           "palavras": ["PAPEL", "TINTA", "VISITA", "FACE", "PLENITUDE", "COMPLETA", "DESPEDIDA", "ABRAÇO", "RECADO", "FINAL"]
         }
@@ -2437,28 +2437,28 @@
         {
           "etapa": 2,
           "tema": "Elogio à hospitalidade e suporte missionário",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 10,
           "palavras": ["VIAJANTE", "ENVIAR", "SUPRIMENTO", "VIAGEM", "PARCERIA", "EXPANSÃO", "APOIO", "DIGNIDADE", "OFERTA", "DIVULGAR"]
         },
         {
           "etapa": 3,
           "tema": "Repreensão ao orgulho de Diótrefes",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["DIÓTREFES", "PRIMAZIA", "VAIDADE", "MALÍCIA", "EXPULSAR", "MALDADE", "VERBAL", "EXCLUSÃO", "PRESSÃO", "ARROGANTE"]
         },
         {
           "etapa": 4,
           "tema": "O exemplo louvável de Demétrio",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 9,
           "palavras": ["DEMÉTRIO", "EXEMPLO", "MODELO", "PRÁTICO", "ATESTADO", "ATITUDE", "IMITAR", "SABEDORIA", "POSTURA"]
         },
         {
           "etapa": 5,
           "tema": "Encontro presencial e saudações aos amigos",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 10,
           "palavras": ["PENA", "ESCRITA", "DIÁLOGO", "PRESENÇA", "AMIGOS", "MENCIONAR", "TRANQUILO", "ABRAÇOS", "REENCONTRO", "CHEGADA"]
         }
@@ -2479,28 +2479,28 @@
         {
           "etapa": 2,
           "tema": "Exemplos históricos do juízo divino",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 10,
           "palavras": ["MIGUEL", "ARCANJO", "CADEIAS", "ALGEMAS", "EXEMPLO", "FLAMA", "CASTIGO", "RAZÃO", "REPREENDER", "ALUCINADO"]
         },
         {
           "etapa": 3,
           "tema": "Caracterização e destino dos falsos mestres",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["CAIM", "BALAÃO", "CORÉ", "ROCHAS", "NUVENS", "VENTO", "ESPUMA", "ESTRELAS", "ENOQUE", "MILHARES"]
         },
         {
           "etapa": 4,
           "tema": "Edificação na fé e resgate dos vacilantes",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["SANTÍSSIMA", "ORAR", "COMPAIXÃO", "DUVIDOSOS", "RESGATAR", "ARREBATAR", "TEMOR", "LIMPO", "EDIFICAR", "AGUARDAR"]
         },
         {
           "etapa": 5,
           "tema": "A grande doxologia e louvor final",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 10,
           "palavras": ["PODEROSO", "TROPEÇO", "IMACULADO", "MAJESTADE", "DOMÍNIO", "GLÓRIA", "SÉCULOS", "ETERNIDADE", "LOUVOR", "EXALTAR"]
         }
@@ -2521,28 +2521,28 @@
         {
           "etapa": 2,
           "tema": "O trono celestial e a abertura dos selos",
-          "dificuldade": "nivel_1",
+          "dificuldade": "nivel_2",
           "qtd_palavras": 10,
           "palavras": ["CORDEIRO", "LIVRO", "SELOS", "ANCIÃOS", "TRONO", "CAVALO", "MULTIDÃO", "MARCA", "LOUVORES", "REMIDOS"]
         },
         {
           "etapa": 3,
           "tema": "As trombetas e a batalha espiritual",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["TROMBETA", "DRAGÃO", "MULHER", "SIÃO", "GAFANHOTO", "MENSAGEM", "CONFLITO", "CÂNTICO", "BESTA", "ANJOS"]
         },
         {
           "etapa": 4,
           "tema": "As taças da ira e a queda de Babilônia",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_3",
           "qtd_palavras": 10,
           "palavras": ["TAÇAS", "ARMAGEDOM", "BABILÔNIA", "PROSTITUTA", "RUÍNA", "PRAGAS", "AFLIÇÃO", "FUMAÇA", "CHORO", "LAMENTO"]
         },
         {
           "etapa": 5,
           "tema": "O eetorno de Cristo e a Nova Jerusalém",
-          "dificuldade": "nivel_2",
+          "dificuldade": "nivel_4",
           "qtd_palavras": 10,
           "palavras": ["BODAS", "NOIVA", "JERUSALÉM", "CIDADE", "CRISTAL", "ESPLENDOR", "VIDA", "TRIUNFO", "AMÉM", "GLORIOSO"]
         }
